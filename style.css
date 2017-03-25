@@ -1,0 +1,12 @@
+footer {
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: fixed;
+    color: blue;
+    text-align: center;
+}
+
+#access_menu {
+    text-align: right;
+}
